@@ -1,4 +1,3 @@
-setwd("C:/Users/John/git/R_Programming/ProgrammingAssignment2")
 ## Creates a function that will create an object to store a matrix and its
 ## inverse along with functions within the object to set and retrieve them;
 ## creates another function that computes the inverse and caches it in the
